@@ -14,6 +14,7 @@ def square_integers(int_list):
     return [ x * x for x in int_list]
     pass
 
+
 def fizzbuzz():
     # code goes here!
     for num in range( 1, 101 ):
